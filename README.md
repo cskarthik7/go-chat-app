@@ -10,7 +10,7 @@ It enables registering the user, adding people to the contact list and send mess
 
 Goroutines has been implemented to continiously receive and broadcast messages to the respective sender and receiver.
 
-React Front End for User Interface.
+React Front End for User Interface, cloned from the Original Repo.
 
 This repo is implementation of  - [Original Repo](https://github.com/schadokar/go-chat-app)
 
