@@ -8,7 +8,7 @@ Golang Based chat application server with Redis Database. The repo explores diff
 
 It enables registering the user, adding people to the contact list and send messages in real time.
 
-Goroutines has been implemented to continiously receive and broadcast messages to the respective sender and receiver.
+Goroutines has been implemented to continuously receive and broadcast messages to the respective sender and receiver.
 
 React Front End for User Interface, cloned from the Original Repo.
 
